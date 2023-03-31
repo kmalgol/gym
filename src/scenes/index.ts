@@ -1,2 +1,2 @@
-export { Navbar } from './navbar'
-export { Link } from './link'
+export { Navbar } from './Navbar'
+export { Link } from './Link'
