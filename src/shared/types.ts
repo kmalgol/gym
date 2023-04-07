@@ -20,3 +20,9 @@ export type BenefitType = {
 export type BenefitProps = BenefitType & {
   setSelectedPage: (value: SelectedPage) => void
 }
+
+export type ClassType = {
+  name: string;
+  description?: string;
+  image: string;
+}
